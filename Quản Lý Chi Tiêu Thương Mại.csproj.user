@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ConnectionHelper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="QLCT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemDanhMuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThemGiaoDich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ucBaoCao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucChiTieu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucDanhMuc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucThongKe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ucThuNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
