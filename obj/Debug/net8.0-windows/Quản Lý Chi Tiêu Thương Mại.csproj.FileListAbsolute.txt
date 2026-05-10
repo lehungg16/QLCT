@@ -1,0 +1,82 @@
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.exe
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.deps.json
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.runtimeconfig.json
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.pdb
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.csproj.GenerateResource.cache
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.AssemblyInfoInputs.cache
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.AssemblyInfo.cs
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.csproj.CoreCompileInputs.cache
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\refint\Quản Lý Chi Tiêu Thương Mại.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.pdb
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.genruntimeconfig.cache
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\ref\Quản Lý Chi Tiêu Thương Mại.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.Quản_Lý_Chi_Tiêu.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.csproj.AssemblyReference.cache
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Qu_n L_ .BAA08829.Up2Date
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucDashboard.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucBaoCao.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucChiTieu.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucDanhMuc.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucThongKe.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ucThuNhap.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\Quản Lý Chi Tiêu Thương Mại.dll.config
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ThemGiaoDich.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ConnectionHelper.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.ThemDanhMuc.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.AppIcons.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ClosedXML.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\RBush.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\bin\Debug\net8.0-windows\System.IO.Packaging.dll
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.Properties.Resources.resources
+D:\hw\C#\Quản Lý Chi Tiêu Thương Mại\obj\Debug\net8.0-windows\Quản_Lý_Chi_Tiêu_Thương_Mại.Login.resources
